@@ -1,0 +1,21 @@
+{
+  "name": "com.ecsreplicator.unity.components",
+  "version": "0.0.1",
+  "displayName": "ECS Replicator Components for Unity",
+  "description": "Replicates ECS components and events using DOTS",
+  "unity": "2022.3",
+  "author": {
+    "name": "Peter Bjorklund / ECS Replicator",
+    "email": "piot@hotmail.com",
+    "url": "https://github.com/piot"
+  },
+  "changelogUrl": "https://github.com/ecs-replicator/unity-components/blob/main/CHANGELOG.md",
+  "dependencies": {
+    "com.unity.entities": "1.0.11"
+  },
+  "documentationUrl": "https://github.com/ecs-replicator/unity-components/blob/main/README.md",
+  "keywords": [],
+  "license": "MIT",
+  "licensesUrl": "https://github.com/ecs-replicator/unity-components/blob/main/LICENSE",
+  "samples": []
+}

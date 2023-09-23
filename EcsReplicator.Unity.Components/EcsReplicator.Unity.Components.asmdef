@@ -1,0 +1,16 @@
+{
+    "name": "EcsReplicator.Unity.Components",
+    "rootNamespace": "EcsReplicator.Unity.Components",
+    "references": [
+        "Unity.Entities",
+        "Unity.Collections"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
